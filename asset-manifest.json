@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/first_react_app/static/css/main.a29da6d0.css",
+    "main.css": "/first_react_app/static/css/main.0fca0be1.css",
     "main.js": "/first_react_app/static/js/main.c6b5e3fc.js",
     "static/media/Rectangle2.svg": "/first_react_app/static/media/Rectangle2.b9a13380b4d07d1269df9a456f75dce8.svg",
     "static/media/car 6.jpg": "/first_react_app/static/media/car 6.7f031fc20453af61215c.jpg",
@@ -21,11 +21,11 @@
     "static/media/Vector1.svg": "/first_react_app/static/media/Vector1.c71cab05ef571d80d62d7b0701353e44.svg",
     "static/media/mail.svg": "/first_react_app/static/media/mail.f13dc9fcdbf937c741c421c341d31290.svg",
     "static/media/Frame 1.svg": "/first_react_app/static/media/Frame 1.50a24e452d66dcad31d240fe44f0a48e.svg",
-    "main.a29da6d0.css.map": "/first_react_app/static/css/main.a29da6d0.css.map",
+    "main.0fca0be1.css.map": "/first_react_app/static/css/main.0fca0be1.css.map",
     "main.c6b5e3fc.js.map": "/first_react_app/static/js/main.c6b5e3fc.js.map"
   },
   "entrypoints": [
-    "static/css/main.a29da6d0.css",
+    "static/css/main.0fca0be1.css",
     "static/js/main.c6b5e3fc.js"
   ]
 }
