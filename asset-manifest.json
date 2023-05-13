@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/%7Bfirst_react_app%7D/static/css/main.48097ad0.css",
+    "main.js": "/%7Bfirst_react_app%7D/static/js/main.2f427ebc.js",
+    "static/media/Rectangle2.svg": "/%7Bfirst_react_app%7D/static/media/Rectangle2.b9a13380b4d07d1269df9a456f75dce8.svg",
+    "static/media/car 6.jpg": "/%7Bfirst_react_app%7D/static/media/car 6.7f031fc20453af61215c.jpg",
+    "static/media/car 5.webp": "/%7Bfirst_react_app%7D/static/media/car 5.73ea908348815af7281e.webp",
+    "static/media/car 3.png": "/%7Bfirst_react_app%7D/static/media/car 3.d2300429c31488010269.png",
+    "static/media/car 2.png": "/%7Bfirst_react_app%7D/static/media/car 2.23f204b8e8dc041e7a45.png",
+    "static/media/car 4.png": "/%7Bfirst_react_app%7D/static/media/car 4.7bdb38a8ea8e7ddff0db.png",
+    "static/media/car 1.png": "/%7Bfirst_react_app%7D/static/media/car 1.dc29c7e4d040cb565901.png",
+    "static/media/Button 36px.svg": "/%7Bfirst_react_app%7D/static/media/Button 36px.4118392d6813f0d80565d0adfe7c14ef.svg",
+    "static/media/Logo.svg": "/%7Bfirst_react_app%7D/static/media/Logo.cc3e85e075b690b072a2f19da661869f.svg",
+    "static/media/phone.svg": "/%7Bfirst_react_app%7D/static/media/phone.6392cbc35485b0eb0ae51f2def9f3b7a.svg",
+    "static/media/Vector3.svg": "/%7Bfirst_react_app%7D/static/media/Vector3.85311d8d3e02677bf82471a7713393c5.svg",
+    "static/media/Frame 2.svg": "/%7Bfirst_react_app%7D/static/media/Frame 2.6378865afc1f7907276c1762d6c3bad8.svg",
+    "static/media/Frame 3.svg": "/%7Bfirst_react_app%7D/static/media/Frame 3.7f6a5a0ec89b0ee77dd6c99e69655303.svg",
+    "static/media/Vector.svg": "/%7Bfirst_react_app%7D/static/media/Vector.efb45e80c2cf5440b9766f09cf7e606b.svg",
+    "static/media/Vector2.svg": "/%7Bfirst_react_app%7D/static/media/Vector2.9c33a7f4a6547d6c807f5162aa00c4ce.svg",
+    "index.html": "/%7Bfirst_react_app%7D/index.html",
+    "static/media/Vector1.svg": "/%7Bfirst_react_app%7D/static/media/Vector1.c71cab05ef571d80d62d7b0701353e44.svg",
+    "static/media/mail.svg": "/%7Bfirst_react_app%7D/static/media/mail.f13dc9fcdbf937c741c421c341d31290.svg",
+    "static/media/Frame 1.svg": "/%7Bfirst_react_app%7D/static/media/Frame 1.50a24e452d66dcad31d240fe44f0a48e.svg",
+    "main.48097ad0.css.map": "/%7Bfirst_react_app%7D/static/css/main.48097ad0.css.map",
+    "main.2f427ebc.js.map": "/%7Bfirst_react_app%7D/static/js/main.2f427ebc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48097ad0.css",
+    "static/js/main.2f427ebc.js"
+  ]
+}
