@@ -1,14 +1,44 @@
-.ololo {
-  background-color: #fc9898;
+.header {
+  height: 50px;
+  margin-left: 100px;
   display: flex;
   padding: 10px;
+  align-items: center;
+  font-family: Inter, sans-serif;
+}
+.header nav {
+  margin-left: 50px;
+  display: flex;
+  width: 25%;
+  justify-content: space-between;
+}
+.header nav a {
+  text-decoration: none;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 24px;
+  color: #1A1A1A;
+}
+.header nav a:active {
+  text-decoration: none;
+}
+.header img {
+  width: 100px;
+}
+.header div {
+  width: 25%;
+  display: flex;
   justify-content: space-between;
   align-items: center;
+  padding-left: 25%;
+  height: auto;
+  margin-right: 100px;
 }
-.ololo nav a {
-  margin: 0 0 0 50px;
+.header div img {
+  width: 20px;
 }
-.ololo img {
+.header div :nth-child(4) {
   width: 100px;
 }
 
