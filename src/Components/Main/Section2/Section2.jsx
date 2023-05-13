@@ -1,5 +1,5 @@
 import Card from "./Card/Card";
-import './Section2.scss'
+import './Section2.css'
 import {NavLink, Route, Routes} from "react-router-dom";
 
 const Section2 = (props) => {

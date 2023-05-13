@@ -1,4 +1,4 @@
-import './Cards.scss'
+import './Cards.css'
 import button from '../../../../assets/main/section2/Vector.svg'
 const Card = (props) => {
     return (

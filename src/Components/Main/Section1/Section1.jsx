@@ -1,4 +1,4 @@
-import "./Section1.scss";
+import "./Section1.css";
 import background from "./assets/Rectangle2.svg"
 import button from "../../../assets/header/Button 36px.svg";
 const Section1 = (props) => {
