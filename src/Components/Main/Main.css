@@ -1,19 +1,7 @@
-
 main section {
   display: flex;
   padding: 40px;
 }
-main .Cards {
-  display: flex;
-  flex-wrap: wrap;
-}
-main .Cards .Card {
-  width: 200px;
-  margin: 20px;
-  background-color: #f65151;
-}
-main .Cards .Card img {
-  width: 100%;
-}
+
 
 /*# sourceMappingURL=Main.css.map */
