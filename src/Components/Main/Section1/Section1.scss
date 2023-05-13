@@ -1,0 +1,108 @@
+section {
+  font-family: Inter, sans-serif;
+  height: 600px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  div.start-image {
+    width: 700px;
+    h1 {
+      font-family: Inter, sans-serif;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 60px;
+      color: #1A1A1A;
+      margin-top: 10px;
+      padding-top: 10%;
+      margin-left: 10%;
+    }
+    div.actions {
+      display: flex;
+      align-items: center;
+      margin-left: 10%;
+      font-size: 14px;
+      span {
+        display: flex;
+        align-items: center;
+        padding-right: 10px;
+        text-align: center;
+        line-height: 1;
+        letter-spacing: 1px;
+        padding-right: 30px;
+        img {
+          padding-right: 5px;
+        }
+      }
+    }
+  };
+  div.strong-sides {
+    background-color: white;
+    display: flex;
+    height: 148px;
+    align-items: center;
+    z-index: 1;
+    position: absolute;
+    width: 80%;
+    top: 650px;
+    left: 9%;
+    padding: 10px;
+    border-radius: 16px;
+    box-shadow: 0px 1px 2px rgba(28, 30, 34, 0.04), 0px 12px 32px rgba(28, 30, 34, 0.08);
+    div {
+      color: #1A1A1A;
+      display: flex;
+      margin: auto;
+      justify-content: center;
+      align-items: center;
+      img {
+        margin-left: 30px;
+        width: 60px;
+        height: 60px;
+      }
+      div {
+        align-items: start;
+        padding-left: 20px;
+        display: flex;
+        flex-direction: column;
+        h3 {
+          font-size: 16px;
+          margin: 0;
+          padding: 0;
+        }
+        p {
+          font-size: 14px;
+          width: 90%;
+        }
+      }
+    }
+  }
+}
+div .inquiry-send {
+  background-color: #2C2926;
+  margin-top: 200px;
+  height: 340px;
+  color: white;
+  font-family: Inter, sans-serif;
+  font-style: normal;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  img {
+    width: 150px;
+    margin-right: 200px;
+  }
+  div {
+    width: 30%;
+    margin-left: 200px;
+    h1 {
+      font-size: 22px;
+      line-height: 120%;
+      margin-bottom: 30px;
+    }
+    p {
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 24px
+    }
+  }
+}

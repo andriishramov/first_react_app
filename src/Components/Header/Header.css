@@ -1,0 +1,15 @@
+.ololo {
+  background-color: #fc9898;
+  display: flex;
+  padding: 10px;
+  justify-content: space-between;
+  align-items: center;
+}
+.ololo nav a {
+  margin: 0 0 0 50px;
+}
+.ololo img {
+  width: 100px;
+}
+
+/*# sourceMappingURL=Header.css.map */
