@@ -1,7 +1,7 @@
 import "./Footer.css";
 import logo from "../../assets/Logo.svg"
 import phone from "../../assets/main/phone.svg"
-import mail from "../../assets/main/phone.svg"
+import mail from "../../assets/main/mail.svg"
 const Footer = () => {
     return (
         <footer>
