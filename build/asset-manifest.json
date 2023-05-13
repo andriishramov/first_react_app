@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/%7Bfirst_react_app%7D/static/css/main.2d13fdfa.css",
+    "main.css": "/%7Bfirst_react_app%7D/static/css/main.945fa9c1.css",
     "main.js": "/%7Bfirst_react_app%7D/static/js/main.2f427ebc.js",
     "static/media/Rectangle2.svg": "/%7Bfirst_react_app%7D/static/media/Rectangle2.b9a13380b4d07d1269df9a456f75dce8.svg",
     "static/media/car 6.jpg": "/%7Bfirst_react_app%7D/static/media/car 6.7f031fc20453af61215c.jpg",
@@ -21,11 +21,11 @@
     "static/media/Vector1.svg": "/%7Bfirst_react_app%7D/static/media/Vector1.c71cab05ef571d80d62d7b0701353e44.svg",
     "static/media/mail.svg": "/%7Bfirst_react_app%7D/static/media/mail.f13dc9fcdbf937c741c421c341d31290.svg",
     "static/media/Frame 1.svg": "/%7Bfirst_react_app%7D/static/media/Frame 1.50a24e452d66dcad31d240fe44f0a48e.svg",
-    "main.2d13fdfa.css.map": "/%7Bfirst_react_app%7D/static/css/main.2d13fdfa.css.map",
+    "main.945fa9c1.css.map": "/%7Bfirst_react_app%7D/static/css/main.945fa9c1.css.map",
     "main.2f427ebc.js.map": "/%7Bfirst_react_app%7D/static/js/main.2f427ebc.js.map"
   },
   "entrypoints": [
-    "static/css/main.2d13fdfa.css",
+    "static/css/main.945fa9c1.css",
     "static/js/main.2f427ebc.js"
   ]
 }
